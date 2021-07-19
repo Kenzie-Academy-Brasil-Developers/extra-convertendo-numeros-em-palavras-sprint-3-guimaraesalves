@@ -2,7 +2,7 @@ function numbersToWords() {
     
     let respostaFinal = []
 
-    for (let n = 0; n <= 1000; n ++) {       
+    for (let n = 1; n <= 1000; n ++) {       
             
         
 
